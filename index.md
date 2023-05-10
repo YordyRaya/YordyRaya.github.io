@@ -8,9 +8,11 @@ My GitHub page is http://github.com/YordyRaya.
 
 ### CPSC 120
 * Lab 1
+
     Lab 1 was my first ever time I coded and for a beginner I was pretty happy because hello world is a tradition of all coders. Actually coding it felt amazing and it felt like for the first time I was truly a computer science major. I was pretty happy about this code and it was the starting point of my career.
     
 * Lab 5
+
     Lab 5, part 1 was a favorite because it was one of ther first times I learned about indexes and how to convert the command line into arguments in order to use as input into the code. At first it was a little rough but over the semester I managed to get the hang of it but it was in this moment that I realized how much you can do with code. 
 
 * Lab 7
