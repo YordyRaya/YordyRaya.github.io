@@ -6,6 +6,27 @@ This is my home page! My name is Yordy Raya and I am a student at [Cal State Ful
 
 My GitHub page is http://github.com/YordyRaya.
 
+### 1st-year Projects 
+> Introduction to programming
+
+
+
+### 2nd-year Projects
+> C++-oriented programing and data structures
+
+
+
+### 3rd-year Projects
+>Assembly
+>Intro to video Game development
+>Introduction to software engineering
+
+
+
+### 4th-year Projects
+
+
+
 ### CPSC 120
 * Lab 1
 
@@ -18,3 +39,4 @@ My GitHub page is http://github.com/YordyRaya.
 * Lab 7
 
     Lab 7, part 1 was a favorite because I was always curious about the high low game. It was difficult at first but once I got the hang of it, it was smooth sailing from there. It was one of the first times I tried to use an if statement and gained some basic understanding of what it meant to code.
+*
